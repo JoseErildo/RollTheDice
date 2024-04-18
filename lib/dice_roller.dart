@@ -25,13 +25,15 @@ class _DiceRollerState extends State<DiceRoller>{
               children: [
                 Image.asset(activeDiceImage, 
                 width: 200),
+                SizedBox(height: 20),
                 TextButton(onPressed: rollDice, 
                 style: TextButton.styleFrom(
-                  padding: EdgeInsets.only(top: 20),
+                  padding: EdgeInsets.only(top: 0),
                   foregroundColor: Color.fromARGB(255, 0, 0, 0),
                   textStyle: TextStyle( fontSize: 15)
                   ),
-                child: Text("Clique no Botão"))
+                child: Text("Clique no Botão")
+                ),
               ],
             );
   }
