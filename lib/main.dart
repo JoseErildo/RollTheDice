@@ -5,7 +5,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        body: GradientConteiner(Colors.blue, Colors.blueGrey),
+        body: GradientConteiner(Color.fromARGB(255, 38, 4, 97), Color.fromARGB(255, 61, 4, 158)),
         ),
       ),
     );
