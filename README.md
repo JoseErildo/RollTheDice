@@ -1,16 +1,5 @@
-# first_project
 
-A new Flutter project.
+## Roll The Dice
+This project is a dice roller. Each time the button is pressed, a random number is generated.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/JoseErildo/RollTheDice/assets/49826761/684e0367-8389-4b32-a96b-4b90ad45367e)
